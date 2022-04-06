@@ -1,0 +1,1 @@
+### Bu kod patika dev üzerindeki ikinci ödevim ve ilk internet sitem.
